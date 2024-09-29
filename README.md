@@ -8,6 +8,6 @@ License [![LICENSE](https://img.shields.io/github/license/DonisioRash/sem.svg?st
 
 Realease [![Releases](https://img.shields.io/github/release/DonisioRash/sem/all.svg?style=flat-square)](https://github.com/DonisioRash/sem/releases)
 
-Develop Build Status![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DonisioRash/sem/main.yml?branch=Develop)
+Develop Build Status![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DonisioRash/sem/main.yml?branch=develop)
 
 Master Build Status![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DonisioRash/sem/main.yml?branch=master)
